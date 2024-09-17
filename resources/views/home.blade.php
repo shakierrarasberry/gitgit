@@ -26,6 +26,10 @@
  
 <body>
 <h1>hai</h1>
+<h2>pacar nanami</h2>
+<h6>haiiuiigsvghjhsvjhbsjhbg</h6>
+<h2>hgjhvgfhvhsdfghjghdfjk</h2>
+
 <a href ="\homee"><button type="button" class="btn btn-outline-secondary">back to home</button></a>
 
 </body>
